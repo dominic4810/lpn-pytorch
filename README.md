@@ -10,7 +10,7 @@ It includes the following human pose estimation models:
 
 ## Installation and Preparation
 ```bash
-pip install posenet_pytorch@git@github.com:dominic4810/posenet-pytorch.git
+pip install posenet_pytorch@git+ssh://github.com:dominic4810/posenet-pytorch.git
 ```
 
 
